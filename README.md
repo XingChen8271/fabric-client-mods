@@ -1,4 +1,4 @@
-# 星执的小模组集 · Fabric Client Mods
+# Minecraft 客户端小模组集 · Fabric Client Mods
 
 一组面向 Minecraft **1.20.1 / Fabric** 的纯客户端小模组。全部以 MIT 协议发布，可自由使用、修改、分发。
 A collection of small **client-side** Fabric mods for Minecraft 1.20.1.
